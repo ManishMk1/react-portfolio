@@ -40,37 +40,37 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
-    image: project1,
+    title: "Chat Connect",
+    image: project2,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "Demonstrated proficiency in utilizing Node.js, React, JavaScript, MongoDB, and Socket.io to develop a real-time chat application, showcasing strong full-stack development skills. Designed and implemented WebSocket-based real-time messaging features using Socket.io, enabling seamless, instant communication between users on the platform. Developed robust database schemas and utilized MongoDB to store and manage user profiles, chat histories, and other application data, ensuring efficient data retrieval and storage.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
-    title: "Task Management App",
+    title: "Apple WebPage Clone",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "Developed a clone of a prominent Apple webpage using modern web technologies including React.js for frontend interactivity, Tailwind CSS for rapid UI development with utility-first classes, and GSAP for creating smooth animations and transitions. Integrated a visually appealing video carousel using GSAP animations to showcase dynamic content seamlessly. Implemented features like autoplay, navigation controls, and responsive design to ensure optimal user experience across devices.",
+    technologies: ["HTML", "CSS", "Tailwind", "GSAP","React"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["HTML", "CSS", "React","React","Tailwind"],
   },
   {
     title: "Blogging Platform",
     image: project4,
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["HTML", "CSS", "React", "Tailwind", "Appwrite"],
   },
 ];
 
 export const CONTACT = {
   address: "767 Fifth Avenue, New York, NY 10153 ",
   phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  email: "aboutmanishh@gmail.com",
 };
