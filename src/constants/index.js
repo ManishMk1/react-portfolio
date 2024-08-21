@@ -40,7 +40,7 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "Chat Connect",
+    title: "SYNCRONUS Chat App",
     image: project2,
     description:
       "Demonstrated proficiency in utilizing Node.js, React, JavaScript, MongoDB, and Socket.io to develop a real-time chat application, showcasing strong full-stack development skills. Designed and implemented WebSocket-based real-time messaging features using Socket.io, enabling seamless, instant communication between users on the platform. Developed robust database schemas and utilized MongoDB to store and manage user profiles, chat histories, and other application data, ensuring efficient data retrieval and storage.",
